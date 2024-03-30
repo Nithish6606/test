@@ -9,7 +9,7 @@ body {
 .btn {
   background: linear-gradient(
     45deg,
-    #ff56f6 21.43%,
+    #5cff56 21.43%,
     #b936ee 50.63%,
     #3bace2 100%,
     #406aff 117.04%
@@ -48,7 +48,7 @@ body {
     #406aff 21.43%,
     #3bace2 50.63%,
     #b936ee 100%,
-    #ff56f6 117.04%
+    #5667ff 117.04%
   );
   background-size: 400% 400%;
   animation: gradient 5s ease infinite;
@@ -62,7 +62,7 @@ body {
 .text-gradient {
   background: linear-gradient(
     45deg,
-    #406aff 21.43%,
+    #40ffa6 21.43%,
     #3bace2 50.63%,
     #b936ee 100%,
     #ff56f6 117.04%
