@@ -71,7 +71,7 @@ const Nav = () => {
                   <p className="text-sm">Team</p>
                 </div>
               </A>
-              <A
+              {/* <A
                 to="/timeline"
                 className={`${
                   location === link.at(4).href
@@ -83,7 +83,7 @@ const Nav = () => {
                   <IoTimerOutline />
                   <p className="text-sm">Timeline</p>
                 </div>
-              </A>
+              </A> */}
             </div>
             <div className="flex">
               <A
@@ -158,7 +158,7 @@ const Nav = () => {
                 </div>
               </A>
 
-              <A
+              {/* <A
                 to="/timeline"
                 className={`${
                   location === link.at(4).href
@@ -171,7 +171,7 @@ const Nav = () => {
                   <IoTimerOutline />
                   <p className="text-sm">Timeline</p>
                 </div>
-              </A>
+              </A> */}
               <A
                 to="/team"
                 className={`${

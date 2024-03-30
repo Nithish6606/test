@@ -27,9 +27,9 @@ const eventsData = [
 
     team: "Individual",
     type: "tech",
-    registration_link: "https://forms.gle/u8dzSMLKapjBFL5h6",
+    registration_link: "https://forms.gle/aQErx8h6kzc32FUG6",
     learn_more:
-      "https://docs.google.com/document/d/1qiOeFwTfNHzGttL31b5iJqupd3-HkbsC/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/1E-Z2GXzysU1Vhs09iim38awDCXa-R6EX/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   {
     id: "ONE-PIECE",
@@ -46,11 +46,11 @@ const eventsData = [
       "Get ready for an exhilarating adventure as you and your teammate dive into the ultimate treasure hunt challenge! Race against time to uncover hidden clues scattered throughout the designated area. Each clue will lead you closer to the final code, testing your teamwork, problem-solving skills, and quick thinking. Be prepared to navigate through various challenges and obstacles as you decode the mystery within the given timeframe..",
     cash_prize: "Rs 300",
     team: "3-5 members",
-    registration_link: "https://forms.gle/ZqAT7XywEUkcvnK9A",
+    registration_link: "https://forms.gle/5yE9urCXTxvJwS6Q6",
     type: "tech",
     img: typesprint,
     learn_more:
-      "https://docs.google.com/document/d/1fSm5pt0mE5ieGXfmyv4SYQmV92R3Kwue/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/1JStMHYvnOT1Rpofvu7r_FQa1ih4o2Qh0/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   {
     id: "Prompt-Palooza-COMPETITIVE-PROMPTING",
@@ -65,16 +65,16 @@ const eventsData = [
       "Respect guidelines provided by coordinators.",
     ],
     cash_prize: "300/-",
-    registration_link: "https://forms.gle/h1K6TcXqiP25GWfd6",
+    registration_link: "https://forms.gle/ZCxpJSwnqkdai6dW9",
     img: logic,
     team: "Individual",
     type: "tech",
     learn_more:
-      "https://docs.google.com/document/d/1nnQF_ewV-ExGxYwsdLhctyrYRsr43cdM/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/1QYVjYxgSD8tzHbrO2VBhJLSnFnpDs08F/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   {
     id: "Code-Carnival-Code-Marathon",
-    title: "Code-Carnival-Code-Marathon",
+    title: "Code Carnival-Code Marathon",
 
     entry_fee: "Single- Rs 40 || Duo- Rs  60 ",
     type: "tech",
@@ -89,9 +89,9 @@ const eventsData = [
     cash_prize: "1st Place: Rs.300 || 2nd Place: Rs.200",
     img: codequest,
     team: "1-2 members",
-    registration_link: "https://forms.gle/d1oNuBepuoWX8WDg6",
+    registration_link: "https://forms.gle/PGhxsut7MX1LBrtF7",
     learn_more:
-      "https://docs.google.com/document/d/1K9zUrxywooUj6RGQalWeehXx_M8fegMJ/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/10mmvep5TNWKOi2WiJmkkyM2prqYJOD98/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   
   {

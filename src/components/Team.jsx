@@ -21,7 +21,7 @@ export default function Team() {
         <div className="container flex flex-col lg:flex-row lg:justify-between items-center lg:mt-30">
           <div className="flex flex-col justify-center items-center mx-10 mb-8">
             <Reveal>
-              <h2 className="h2 text-accent mb-6">Our Team</h2>
+              <h2 className="text-4xl text-gradient max-w-sm mb-8 mx-auto lg:mx-0">Our Team</h2>
             </Reveal>
             <Reveal>
               <p className="max-w-[455px]">

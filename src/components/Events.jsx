@@ -14,8 +14,8 @@ const Events = (props) => {
                 id="workshop3"
                 className="flex flex-col justify-center items-center"
               >
-                <h2 className="h2 leading-light text-accent">Workshop</h2>
-                <p className="text-gradient max-w-sm mb-8">
+                <h2 className="text-4xl text-gradient max-w-sm mb-8 mx-auto lg:mx-0">Workshop</h2>
+                <p className="h3 leading-light text-accent">
                   Tech ,Nontech & Cultural
                 </p>
                 <p className="max-w-sm mb-4">

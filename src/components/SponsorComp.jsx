@@ -40,7 +40,7 @@ const SponsorComp = () => {
     return (
         <>
             <Reveal>
-              <h2 className="h2 text-accent mb-6 flex justify-center items-center py-10 lg:pb-10">Our Sponsors</h2>
+              <h2 className=" text-4xl flex justify-center items-center text-gradient max-w-sm mb-8 mx-auto">Our Sponsors</h2>
             </Reveal>
       <div className="bg-transparent relative w-[100%] my-0 h-[100px] overflow-hidden flex justify-center items-center">
         

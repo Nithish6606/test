@@ -44,7 +44,7 @@ const Banner = () => {
                     2000,
                   ]}
                   speed={50}
-                  className="text-accent"
+                  className="cse cse-lg hover:-translate-y-1 hover:scale-110"
                   wrapper="span"
                   repeat={Infinity}
                 />

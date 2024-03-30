@@ -23,7 +23,7 @@ const Footer = () => {
             </Reveal>
             <Reveal>
               <div className="flex flex-col lg:gap-2 pb-20 lg:pb-0 pt-5 lg:pt-0 justify-items-center items-center">
-                <h2 className="text-3xl text-white">Contact Us</h2>
+                <h2 className="text-3xl text-white font-bold">Contact Us</h2>
                 <p className="text-gray-300"> +91 8500991372</p>
                 <a
                   href="mailto:cresence2k24@gmail.com"
@@ -53,7 +53,7 @@ const Footer = () => {
             </Reveal>
             <Reveal>
               <div className="hidden lg:flex flex-col gap-5 pt-5 lg:pt-0">
-                <h2 className="text-3xl">Location</h2>
+                <h2 className="text-3xl font-bold">Location</h2>
                 <p className="text-gray-300">
                   JNTUH-UCEJ,
                   <br /> Kondagattu,
