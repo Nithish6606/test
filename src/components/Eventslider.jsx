@@ -39,7 +39,7 @@ export default function EventSlider() {
                 </div>
               </div>
               <div class="w-full lg:w-auto lg:flex lg:items-center justify-center">
-                <p class="text-gradient max-w-sm mb-8 mx-auto lg:mx-0">
+                <p class="text-4xl text-gradient max-w-sm mb-8 mx-auto lg:mx-0">
                   Tech Events
                 </p>
               </div>
@@ -99,7 +99,7 @@ export default function EventSlider() {
             >
               <SwiperSlide>
                 <Link
-                  to="/events/Type-Sprint"
+                  to="/events/ONE-PIECE"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -109,7 +109,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Type Sprint</span>
+                    <span className="text-gradient">ONE PIECE-Code Hunt</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">1st March</span>
@@ -118,7 +118,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Code-Quest"
+                  to="/events/Code-Carnival-Code-Marathon"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -128,7 +128,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Code Quest</span>
+                    <span className="text-gradient">Code Carnival Code Marathon</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">1st March</span>
@@ -137,7 +137,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Logic-League"
+                  to="/events/Prompt-Palooza-COMPETITIVE-PROMPTING"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/40 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -147,7 +147,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Logic League</span>
+                    <span className="text-gradient">Prompt Palooza-Competitive Prompting</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">2nd March</span>
@@ -156,7 +156,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Cipher-Chase"
+                  to="/events/BLIND-CODING"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -166,32 +166,14 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Cipher Chase</span>
+                    <span className="text-gradient">BLIND CODING</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">2nd March</span>
                   </div>
                 </Link>
               </SwiperSlide>
-              <SwiperSlide>
-                <Link
-                  to="/events/Crypto-Venture"
-                  className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
-                >
-                  <div className="bg-black/40 w-full h-full absolute z-40 transition-all duration-300"></div>
-                  <img
-                    className="scale-125 transition-all duration-500 h-[248px]"
-                    src={captureflag}
-                    alt=""
-                  ></img>
-                  <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Crypto-Venture</span>
-                  </div>
-                  <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">2nd March</span>
-                  </div>
-                </Link>
-              </SwiperSlide>
+              
             </Swiper>
             <div className="co flex justify-center">
               <div className="slider-controller hidden lg:flex lg:gap-x-10 justify-center">
@@ -221,7 +203,7 @@ export default function EventSlider() {
                 </div>
               </div>
               <div class="w-full lg:w-auto lg:flex lg:items-center justify-center">
-                <p class="text-gradient max-w-sm mb-8 mx-auto lg:mx-0">
+                <p class="text-4xl text-gradient max-w-sm mb-8 mx-auto lg:mx-0">
                   Non-Tech Events
                 </p>
               </div>
@@ -280,7 +262,7 @@ export default function EventSlider() {
             >
               <SwiperSlide>
                 <Link
-                  to="/events/Hunt-The-Hint"
+                  to="/events/Mystery-Box"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -290,7 +272,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Hunt the Hint</span>
+                    <span className="text-gradient">Mystery Box</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">2nd March</span>
@@ -299,7 +281,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Ex-Quiz-Me"
+                  to="/events/Spooky-story-slam"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/20 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -309,7 +291,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Ex-Quiz-Me!</span>
+                    <span className="text-gradient">Spooky story slam</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">2nd March</span>
@@ -318,64 +300,28 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Ipl-Auction"
+                  to="/events/Escape-the-crypt"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
                   <img
-                    className="scale-125 transition-all duration-500 h-[248px]"
+                    className="scale-125 transition-all duration-500 h-[248px] w-[315px]"
                     src={ipl}
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">IPL Auction</span>
+                    <span className="text-gradient">Escape The Crypt</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">1st March</span>
                   </div>
                 </Link>
               </SwiperSlide>
+              
+              
               <SwiperSlide>
                 <Link
-                  to="/events/Movie-Madness"
-                  className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
-                >
-                  <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-                  <img
-                    className="scale-125 transition-all duration-500 h-[248px]"
-                    src={moviemad}
-                    alt=""
-                  ></img>
-                  <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Movie Madness</span>
-                  </div>
-                  <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
-                  </div>
-                </Link>
-              </SwiperSlide>
-              <SwiperSlide>
-                <Link
-                  to="/events/Get-Grab-Gather"
-                  className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
-                >
-                  <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-                  <img
-                    className="scale-125 transition-all duration-500 h-[248px] lg:w-full"
-                    src={beg}
-                    alt=""
-                  ></img>
-                  <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Get Grab Gather</span>
-                  </div>
-                  <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
-                  </div>
-                </Link>
-              </SwiperSlide>
-              <SwiperSlide>
-                <Link
-                  to="/events/Free-Fire"
+                  to="/events/Haunted-Dart"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -385,7 +331,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">Free Fire</span>
+                    <span className="text-gradient">Haunted Dart</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">1st March</span>
@@ -394,7 +340,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/BGMI"
+                  to="/events/Haunted-portrait challenge"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -404,7 +350,7 @@ export default function EventSlider() {
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-50">
-                    <span className="text-gradient">BGMI</span>
+                    <span className="text-gradient">Haunted portrait challenge</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
                     <span className="text-2xl text-white">1st March</span>

@@ -16,7 +16,7 @@ const EventCard = (props) => {
               >
                 <div className="bg-black/70 w-full h-full absolute z-40"></div>
                 <img
-                  className="scale-125 h-[248px] w-[348px] lg:w-[368px]"
+                  className="scale-125 h-[248px] w-[348px] lg:w-[315px]"
                   src={item.img}
                   alt=""
                 ></img>

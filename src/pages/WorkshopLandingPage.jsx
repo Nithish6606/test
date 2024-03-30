@@ -12,7 +12,7 @@ const WorkshopLandingPage = () => {
         <Header />
         <div className="h2 text-center text-gradient">
             <h1>
-              Our Workshops
+              Our Workshop
             </h1>
         </div>
         <div className="flex flex-col lg:flex-row flex-wrap justify-center items-center lg:mt-10">

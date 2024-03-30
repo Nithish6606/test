@@ -1,8 +1,6 @@
 import React from "react";
-
-import Img1 from "../assets/Images/drone.avif";
 import Img2 from "../assets/Images/genAI.avif";
-import { Reveal, RevealLeft, RevealRight } from "./Reveal";
+import { Reveal, RevealLeft } from "./Reveal";
 import { Link } from "react-router-dom";
 
 const Events = (props) => {
@@ -16,7 +14,7 @@ const Events = (props) => {
                 id="workshop3"
                 className="flex flex-col justify-center items-center"
               >
-                <h2 className="h2 leading-light text-accent">Workshops</h2>
+                <h2 className="h2 leading-light text-accent">Workshop</h2>
                 <p className="text-gradient max-w-sm mb-8">
                   Tech ,Nontech & Cultural
                 </p>
@@ -34,27 +32,7 @@ const Events = (props) => {
                 </a>
               </div>
             </Reveal>
-            <RevealRight>
-              <Link to="/workshops/Drone-Workshop">
-                <div
-                  id="workshop1"
-                  className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
-                >
-                  <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-                  <img
-                    className="scale-125 transition-all duration-500"
-                    src={Img1}
-                    alt=""
-                  ></img>
-                  <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-40">
-                    <span className="text-gradient">Drone Technologies</span>
-                  </div>
-                  <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-40">
-                    <span className="text-3xl text-white">1st & 2nd March</span>
-                  </div>
-                </div>
-              </Link>
-            </RevealRight>
+            
           </div>
           <RevealLeft>
             <Link to="/workshops/Generative-Ai-Workshop">
@@ -62,19 +40,19 @@ const Events = (props) => {
                 id="workshop2"
                 className="flex-1 flex-col lg:w-[565px] lg:h-[490px]"
               >
-                <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[575px]">
+                <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:w-[565px] h-[320px]">
                   
-                  <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
+                  <div className="bg-black/70 w-full absolute z-40 transition-all duration-300"></div>
                   <img
                     className="scale-125 transition-all duration-500 lg:w-[565px]"
                     src={Img2}
                     alt=""
                   ></img>
                   <div className="absolute -bottom-full left-12 bottom-24 transition-all duration-500 z-40">
-                    <span className="text-gradient">Generative Ai</span>
+                    <span className="text-gradient text-2xl">Generative Ai</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-40">
-                    <span className="text-3xl text-white">1st & 2nd March</span>
+                    <span className="text-2xl text-yellow-300">15 April and 16 April</span>
                   </div>
                 </div>
               </div>

@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 220">
             <path
-              fill="#610d83"
+              fill="#46830d"
               fill-opacity="1"
               d="M0,160L48,176C96,192,192,224,288,213.3C384,203,480,149,576,144C672,139,768,181,864,181.3C960,181,1056,139,1152,133.3C1248,128,1344,160,1392,176L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
             ></path>
@@ -30,7 +30,7 @@ const Footer = () => {
                   target="blank"
                   className="text-gray-300"
                 >
-                  cresence2k24@gmail.com
+                  crescence2k24@gmail.com
                 </a>
                 <div className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
                   <a

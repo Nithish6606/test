@@ -9,8 +9,8 @@ body {
 .btn {
   background: linear-gradient(
     45deg,
-    #5cff56 21.43%,
-    #b936ee 50.63%,
+    #56ff72 21.43%,
+    #36ee3f 50.63%,
     #3bace2 100%,
     #406aff 117.04%
   );
@@ -89,7 +89,7 @@ body {
 }
 
 .background {
-  background-color: #610d83;
+  background-color: #46830d;
 }
 
 @layer base {
