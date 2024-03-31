@@ -14,7 +14,7 @@ import { EffectCards, Navigation } from "swiper/modules";
 import { teamData } from "../assets/Data/teamData";
 
 export default function Team() {
-  const teamData1 = teamData.slice(0, 10);
+  const teamData1 = teamData.slice(0, 14);
   return (
     <div className="section lg:mt-30 xl:min-h-[100vh]" id="team">
       <>
@@ -52,7 +52,7 @@ export default function Team() {
               {teamData1.map((member, id) => {
                 return (
                   <SwiperSlide key={id}>
-                    <div class="w-96 px-6 py-6  text-center bg-purple-900 rounded-lg lg:mt-0 xl:px-10">
+                    <div class="w-96 px-6 py-6  text-center card rounded-3xl lg:mt-0 xl:px-10">
                       <div class="space-y-4 xl:space-y-6">
                         <img
                           class="mx-auto rounded-full h-36 w-36 border-white/20"

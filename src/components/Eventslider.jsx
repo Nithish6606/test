@@ -340,7 +340,7 @@ export default function EventSlider() {
               </SwiperSlide>
               <SwiperSlide>
                 <Link
-                  to="/events/Haunted-portrait challenge"
+                  to="/events/Haunted-portrait-challenge"
                   className="group relative overflow-hidden border-2 border-white/50 rounded-xl lg:h-[248px] lg:w-[565px]"
                 >
                   <div className="bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>

@@ -4,8 +4,8 @@ import {
   
 import { teamData } from "../assets/Data/teamData";
 
-const teamData1 = teamData.slice(0, 10);
-const teamData2 = teamData.slice(10, 13);
+const teamData1 = teamData.slice(0, 14);
+const teamData2 = teamData.slice(14, 20);
 export function StudentTeam() {
 
    

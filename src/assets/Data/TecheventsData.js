@@ -35,9 +35,9 @@ const eventsData = [
     id: "ONE-PIECE",
 
     title: "ONE PIECE-Code Hunt",
-    entry_fee: "Rs  80 per team",
+    entry_fee: "Rs  30 per head",
     rules: [
-      "Teams must consist of 3-5 members..",
+      "Teams must consist of 3-4 members..",
       "No electronic gadgets allowed during the contest.",
       "Follow instructions provided by coordinators strictly",
       "Respect the designated boundaries and rules of the event area.",
@@ -45,8 +45,8 @@ const eventsData = [
     description:
       "Get ready for an exhilarating adventure as you and your teammate dive into the ultimate treasure hunt challenge! Race against time to uncover hidden clues scattered throughout the designated area. Each clue will lead you closer to the final code, testing your teamwork, problem-solving skills, and quick thinking. Be prepared to navigate through various challenges and obstacles as you decode the mystery within the given timeframe..",
     cash_prize: "Rs 300",
-    team: "3-5 members",
-    registration_link: "https://forms.gle/5yE9urCXTxvJwS6Q6",
+    team: "3-4 members",
+    registration_link: "https://forms.gle/GN7WFJWnQRrDdTxg6",
     type: "tech",
     img: typesprint,
     learn_more:

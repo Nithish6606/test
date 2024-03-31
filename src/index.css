@@ -81,6 +81,9 @@ body {
   background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
 }
 
+.card{
+  background: linear-gradient(to bottom left, #cc00cc 0%, #3333cc 100%);
+}
 .active {
   color: #fff;
   /* padding: 0.5rem;
