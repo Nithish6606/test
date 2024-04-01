@@ -9,7 +9,7 @@ const EventLandingPage = () => {
   return (
     <>
       <ScrollToTop />
-      <div className="bg-site bg-no-repeat bg-fixed overflow-hidden min-h-[100vh] pb-20 lg:pb-5">
+      <div className="bg-hero bg-no-repeat bg-fixed overflow-hidden min-h-[100vh] pb-20 lg:pb-5">
         <Header />
         <Reveal>
           <div className="h2 text-center text-gradient">

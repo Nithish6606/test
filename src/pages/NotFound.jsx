@@ -6,7 +6,7 @@ import Scroll from "../components/Scrolltotop";
 
 const Notfound = (props) => {
   return (
-    <div className="h-dvh bg-site to-100% flex flex-col gap-y-0">
+    <div className="h-dvh bg-hero to-100% flex flex-col gap-y-0">
       <Header />
       <Scroll />
       <Reg Title={props.Title} text={props.text} />

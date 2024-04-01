@@ -23,7 +23,7 @@ module.exports = {
         accent: "#B809C3",
       },
       backgroundImage: {
-        site: "url('./assets/Images/site-bg.webp')",
+        // site: "url('./assets/Images/site-bg.webp')",
         hero: "url('./assets/Images/hero-banner.jpg')",
       },
       animation: {

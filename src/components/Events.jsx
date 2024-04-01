@@ -15,21 +15,22 @@ const Events = (props) => {
                 className="flex flex-col justify-center items-center"
               >
                 <h2 className="text-4xl text-gradient max-w-sm mb-8 mx-auto lg:mx-0">Workshop</h2>
-                <p className="h3 leading-light text-accent">
+                {/* <p className="h3 leading-light text-accent">
                   Tech ,Nontech & Cultural
-                </p>
+                </p> */}
                 <p className="max-w-sm mb-4">
-                  Entry Fee + Food (@1day) - 200/-<br></br>
-                  Entry Fee + Food (@2days) - 400/-<br></br>
-                  Accomodation + Food (@2days) - 500/-
+                  Entry Fee - 600/-<br></br>
+                  Entry Fee + Accomodation(@2days) - 700/-<br></br>
+                  <p className="text-gradient">Note:</p> 
+                  Food Charges are not included in the Accommodation. Tokens Will be provided for food at minimal cost in the Campus
                 </p>
-                <a
+                {/* <a
                   href="https://forms.gle/EEbmXa2U1yipcgVp7"
                   target="blank"
                   className="btn btn-sm"
                 >
                   Book Slot
-                </a>
+                </a> */}
               </div>
             </Reveal>
             
@@ -52,7 +53,7 @@ const Events = (props) => {
                     <span className="text-gradient text-2xl">Generative Ai</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-40">
-                    <span className="text-2xl text-yellow-300">15 April and 16 April</span>
+                    <span className="text-2xl text-yellow-300">15<sup>th</sup> April and 16<sup>th</sup> April 2024</span>
                   </div>
                 </div>
               </div>

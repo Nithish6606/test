@@ -22,7 +22,7 @@ const WorkshopCard = () => {
                     <span className="text-gradient">{item.title}</span>
                   </div>
                   <div className="absolute left-12 bottom-14 z-40">
-                    <span className="text-3xl text-white">15th and 16th April</span>
+                    <span className="text-3xl text-white">15<sup>th</sup> April and 16<sup>th</sup> April 2024</span>
                   </div>
                 </Link>  
   

@@ -6,20 +6,20 @@ const dataWorkshops = [
     id: "Generative-Ai-Workshop",
     title: "Generative Ai",
     description:
-      "Embark on an immersive 2-day journey into the realm of Generative AI! Unleash the power of language models like GPT, explore cutting-edge applications, and delve into ethical considerations. Join us for a hands-on experience, crafting your own AI creations, and gain insights from industry experts. Elevate your skills and be at the forefront of innovation – register now for an enlightening workshop tailored for 2nd and 3rd-year B.Tech students proficient in Python, C, C++, and Java!",
+      "Immerse yourself in a 2-day journey through the world of Generative AI! Discover the potential of language models like GPT, explore cutting-edge applications, and delve into ethical considerations. This workshop offers hands-on experience where you can craft your own AI creations and learn from industry experts. Tailored for B.Tech students skilled in Python,and Java, this enlightening experience will elevate your skills and keep you ahead in the realm of innovation. Register now to secure your spot!",
     // no_of_rules: 3,
     rules: [
-      "Every one must bring their own laptops. ",
+      "Every one must bring their own laptops.",
       `Should be present before 1 hour to the workshop. `,
-      "Charging slots would be provided at the venue. ",
-      `Candidate should attend the workshop 15 min before the session. `,
+      "Participants will be provided high speed internet.",
+      `Candidate should attend the all the sessions of the Workshop.`,
       "Participants will be provided high speed internet.",
     ],
-    registration_link: "https://forms.gle/rLys7v9SnxkNcoML6",
+    registration_link: "https://forms.gle/tgbZJmx5wF1xASWV8",
     entry_fee: "600/-",
     team: "Individual",
     img: img2,
-    learn_more: "https://docs.google.com/document/d/1jGrZIUKtAGywXXwI4CYv4JwsfXSa_FoX/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+    learn_more: "https://docs.google.com/document/d/1aJf96hZxi615A_zzpFm4nB3dhXunuzd5/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
 ];
 

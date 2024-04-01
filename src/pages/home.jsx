@@ -5,13 +5,13 @@ import Nav from "../components/Nav";
 import About from "../components/About";
 import Events from "../components/Events";
 import Team from "../components/Team";
-import Sponsors from '../components/SponsorComp';
+//import Sponsors from '../components/SponsorComp';
 import Footer from "../components/footer";
 import EventSlider from "../components/Eventslider";
 
 const App = () => {
   return (
-    <div className="bg-site bg-fixed overflow-x-hidden bg-no-repeat flex flex-col justify-center lg:h-[full]">
+    <div className="bg-hero bg-fixed overflow-x-hidden bg-no-repeat flex flex-col justify-center lg:h-[full]">
       <div className="lg:bg-hero lg:bg-fixed lg:bg-cover overflow-hidden lg:bg-no-repeat">
         <Header />
 
@@ -23,7 +23,7 @@ const App = () => {
         <Events />
         <EventSlider />
         <Team />
-        <Sponsors />
+        {/* <Sponsors /> */}
         <Footer />
       </div>
     </div>

@@ -7,7 +7,7 @@ import MapEmbed from "../components/mapEmbed";
 function ContactPage() {
   return (
     <>
-    <div className="bg-site bg-fixed pb-20">
+    <div className="bg-hero bg-fixed pb-20">
     <Header />
     <HomeComp />
     <div className="min-h-[100vh] flex flex-col lg:flex-row items-center gap-5 lg:px-40 overflow-hidden">

@@ -112,7 +112,7 @@ export default function EventSlider() {
                     <span className="text-gradient">ONE PIECE-Code Hunt</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
+                    <span className="text-2xl text-white">13<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -131,7 +131,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Code Carnival Code Marathon</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
+                    <span className="text-2xl text-white">12<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -150,7 +150,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Prompt Palooza-Competitive Prompting</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">2nd March</span>
+                    <span className="text-2xl text-white">13<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -169,7 +169,7 @@ export default function EventSlider() {
                     <span className="text-gradient">BLIND CODING</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">2nd March</span>
+                    <span className="text-2xl text-white">12<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -275,7 +275,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Mystery Box</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">2nd March</span>
+                    <span className="text-2xl text-white">19<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -294,7 +294,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Spooky story slam</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">2nd March</span>
+                    <span className="text-2xl text-white">19<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -313,7 +313,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Escape The Crypt</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
+                    <span className="text-2xl text-white">19<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -334,7 +334,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Haunted Dart</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
+                    <span className="text-2xl text-white">19<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
@@ -353,7 +353,7 @@ export default function EventSlider() {
                     <span className="text-gradient">Haunted portrait challenge</span>
                   </div>
                   <div className="absolute -bottom-full left-12 bottom-14 transition-all duration-700 z-50">
-                    <span className="text-2xl text-white">1st March</span>
+                    <span className="text-2xl text-white">19<sup>th</sup> April 2024</span>
                   </div>
                 </Link>
               </SwiperSlide>
