@@ -12,6 +12,8 @@ import EventLandingPage from "./pages/EventLandingPage";
 import TeamPage from "./pages/TeamPage";
 import Sponsors from "./pages/SponsorsPage";
 import Time from "./pages/TimelinePage";
+import ParticlesComponent from './components/particles';
+import "./App.css";
 const App = () => {
   const [loading, setLoading] = useState(true);
   const preloader = document.getElementById("preload");
@@ -22,6 +24,7 @@ const App = () => {
   return (
     !loading && (
       <div className="select-none">
+        <ParticlesComponent id="particles" />
         <BrowserRouter>
           <Routes>
             <Route index element={<Home />} />

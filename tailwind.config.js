@@ -22,10 +22,10 @@ module.exports = {
         primary: "#0a0a0a",
         accent: "#B809C3",
       },
-      backgroundImage: {
-        // site: "url('./assets/Images/site-bg.webp')",
-        hero: "url('./assets/Images/hero-banner.jpg')",
-      },
+      // backgroundImage: {
+      //   // site: "url('./assets/Images/site-bg.webp')",
+      //   hero: "url('./assets/Images/hero-banner.jpg')",
+      // },
       animation: {
         ["infinite-slider"]: "infiniteSlider 13s linear infinite",
       },
