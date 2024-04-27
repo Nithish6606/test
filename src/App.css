@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #particles canvas {
+=======
+.App {
+    text-align: center;
+  }
+  
+  #particles canvas {
+>>>>>>> refs/remotes/origin/main
     z-index: -1;
     height: 100%;
     width: 100%;
