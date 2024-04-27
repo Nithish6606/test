@@ -13,11 +13,8 @@ import TeamPage from "./pages/TeamPage";
 import Sponsors from "./pages/SponsorsPage";
 import Time from "./pages/TimelinePage";
 import ParticlesComponent from './components/particles';
-<<<<<<< HEAD
 import './App.css';
-=======
 import "./App.css";
->>>>>>> refs/remotes/origin/main
 const App = () => {
   const [loading, setLoading] = useState(true);
   const preloader = document.getElementById("preload");
@@ -28,11 +25,8 @@ const App = () => {
   return (
     !loading && (
       <div className="select-none">
-<<<<<<< HEAD
         <ParticlesComponent id="particles"/>
-=======
         <ParticlesComponent id="particles" />
->>>>>>> refs/remotes/origin/main
         <BrowserRouter>
           <Routes>
             <Route index element={<Home />} />
