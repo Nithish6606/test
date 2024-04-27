@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfestwebsite=self.webpackChunkfestwebsite||[]).push([[500],{500:(e,s,t)=>{t.d(s,{Pauser:()=>n});var a=t(4864);class n extends a.Ef{constructor(e){super(e),this.handleClickMode=e=>{if("pause"!==e)return;const s=this.container;s.animationStatus?s.pause():s.play()}}clear(){}init(){}interact(){}isEnabled(){return!0}reset(){}}}}]);
+//# sourceMappingURL=500.d679dd49.chunk.js.map
