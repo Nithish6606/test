@@ -17,15 +17,6 @@ const Banner = () => {
             <RevealRight>
               {/* Title */}
               <h1
-                id="title5"
-                className="text-gradient animate-gradient text-[36px] font-bold leading-[0.8] lg:text-[50px] my-16 lg:my-5 drop-shadow-3xl"
-              >
-                JNTUH UNIVERSITY COLLEGE OF ENGINEERING JAGTIAL(AUTONOMOUS)
-              </h1>
-              <p id="title6" className="mb-8 max-w-lg mx-auto lg:mx-0">
-                          Presents
-            </p>
-              <h1
                 id="title1"
                 className="text-gradient animate-gradient text-[46px] font-bold leading-[0.8] lg:text-[80px] my-16 lg:my-5 drop-shadow-3xl"
               >
