@@ -8,6 +8,9 @@ const dataWorkshops = [
     description:
       "Immerse yourself in a 2-day journey through the world of Generative AI! Discover the potential of language models like GPT, explore cutting-edge applications, and delve into ethical considerations. This workshop offers hands-on experience where you can craft your own AI creations and learn from industry experts. Tailored for B.Tech students skilled in Python,and Java, this enlightening experience will elevate your skills and keep you ahead in the realm of innovation. Register now to secure your spot!",
     // no_of_rules: 3,
+
+    // Resource_person:
+    // "Dr. G Uday Kiran HOD - CSE (AI & ML), BVRIT",
     rules: [
       "Every one must bring their own laptops.",
       `Should be present before 1 hour to the workshop. `,

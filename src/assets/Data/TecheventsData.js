@@ -114,7 +114,7 @@ const eventsData = [
     cash_prize: "₹80/-",
     registration_link: "https://forms.gle/RxboKuhsJ22JCXmq9",
     learn_more:
-      "https://docs.google.com/document/d/1ys2Vc2UjILEatdZawUUUQ15d28H2Xmp0/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/1A0OHnHkv_Zr8T7h6iO32z7yyhCzAvYBq/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   
   {
@@ -135,7 +135,7 @@ const eventsData = [
     img: hunt,
     registration_link: "https://forms.gle/mHUv9ntjnkAzuR9y5",
     learn_more:
-      "https://docs.google.com/document/d/1ocBjlqix4368vxzZHHzeWEpctkdyj9FQ/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/1sxTyJqatsJVjqpm7uLQAh4nWA_3NSDoV/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   
   {
@@ -157,7 +157,7 @@ const eventsData = [
     cash_prize: "₹120/-",
     registration_link: "https://forms.gle/NpzimcZyAzyTdQ5y7",
     learn_more:
-    "https://docs.google.com/document/d/105EThTLEDWy7komDnRNFCLrgp17LEzaD/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/1XM2bLDMazFNeqnkgv5UH9IZVH8LTqkdq/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   
   {
@@ -179,7 +179,7 @@ const eventsData = [
     team: "Individual",
     registration_link: "https://forms.gle/pRM6eTByKyhymoTv5",
     learn_more:
-      "https://docs.google.com/document/d/1Rs5bvoFP8_zjyiHwt15wd7HrxmlhfOog/edit?usp=sharing&ouid=101073225983821030145&rtpof=true&sd=true",
+      "https://docs.google.com/document/d/13VLE6JQCkiTLQVC-5xhUrPQK6umNnhZX/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
   {
     id: "Haunted-portrait-challenge",
@@ -200,7 +200,7 @@ const eventsData = [
     team: "Individual",
     registration_link: "https://forms.gle/XDaM6LF8m4w79FmN9",
     learn_more:
-      "https://drive.google.com/file/d/1s2VkrIFgrbBJoQJcVrMoyH3k5Yd1aFD6/view?usp=sharing",
+      "https://docs.google.com/document/d/1AJEVMq5KW0apmM7lQ58YHRjGQDeHGEj7/edit?usp=sharing&ouid=110991151014579958941&rtpof=true&sd=true",
   },
 ];
 

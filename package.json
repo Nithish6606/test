@@ -12,6 +12,8 @@
     "@testing-library/user-event": "^13.5.0",
     "@vercel/speed-insights": "^1.0.9",
     "framer-motion": "^11.0.3",
+    "@tsparticles/all": "^3.2.1",
+    "@tsparticles/react": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
